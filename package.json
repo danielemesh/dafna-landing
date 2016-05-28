@@ -1,0 +1,25 @@
+{
+  "name": "dafna-landing",
+  "version": "1.0.0",
+  "description": "Landing page for Dafna",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielemesh/dafna-landing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielemesh/dafna-landing/issues"
+  },
+  "homepage": "https://github.com/danielemesh/dafna-landing",
+  "devDependencies": {
+    "del": "^2.0.1",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.0.1",
+    "gulp-sass": "^2.0.4"
+  }
+}
